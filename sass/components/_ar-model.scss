@@ -10,7 +10,7 @@
   
   // Customize our own hotspot
   .Hotspot {
-    background: url(../images/hotspot.svg) center no-repeat;
+    background: url(../images/hotspot-icon1.svg) center no-repeat;
     border: 0px;
     width: 45px;
     height: 38px;
@@ -91,7 +91,7 @@
   }
   
   #ar-button:focus-visible {
-    outline: 1px solid #4285f4;
+    outline: 1px solid #515f77;
   }
   
   @keyframes circle {
