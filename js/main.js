@@ -11,3 +11,7 @@ const onProgress = (event) => {
     }
   };
   document.querySelector('model-viewer').addEventListener('progress', onProgress);
+
+  const projectList = document.querySelector(".project-list");
+
+
